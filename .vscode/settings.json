@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.dart": "dart",
+        "*.js": "javascript",
+        "stddef.h": "c",
+        "course1.h": "c"
+    }
+}
